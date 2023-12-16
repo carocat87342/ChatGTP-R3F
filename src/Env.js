@@ -79,5 +79,6 @@ export default function Env(props) {
     }
   });
 
-  return <Environment preset={"night"} background blur={0.65} />;
+  // return <Environment preset={"night"} background blur={0.65} />;
+  return <Environment files="/venice_sunset_1k.hdr" background blur={0.65} />
 }

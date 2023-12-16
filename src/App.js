@@ -32,6 +32,7 @@ function App() {
     apiKey: process.env.REACT_APP_OPENAI_API_KEY,
   });
   const openai = new OpenAIApi(configuration);
+  console.log(openai)
 
   const [colorOne, setColorOne] = useState("#F2F2F2");
   const [colorTwo, setColorTwo] = useState("#FECF9E");
@@ -410,7 +411,7 @@ function App() {
             <Image src="/logo.png" width={60} mb={20} />
 
             <div style={{ fontSize: modalFont }} className="mobileModal">
-              Stoca takes you on a reflective journey with a stoic philosopher
+              Nagarjuna takes you on a reflective journey with a stoic philosopher
               AI while changing the colors & music to reflect your mood in real
               time
             </div>
@@ -481,7 +482,7 @@ function App() {
           <CenterMantine>
             <Stack align="center">
               <div className="mobileModal">
-                For the full audio-immersive experience visit stoca on desktop
+                For the full audio-immersive experience visit Nagarjuna on desktop
               </div>
               <BsFillArrowRightCircleFill
                 onClick={() => setOpened(false)}

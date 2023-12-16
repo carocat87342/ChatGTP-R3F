@@ -3,13 +3,13 @@
 
 
 
-<h3 align="center">Stoca</h3>
+<h3 align="center">Nagarjuna</h3>
 
   <p align="center">
-  https://stoca.vercel.app
+  https://Nagarjuna.vercel.app
     <br />
     <br />
-      Stoca takes you on a reflective journey with a stoic philosopher
+      Nagarjuna takes you on a reflective journey with a stoic philosopher
               AI while changing the colors & music to reflect your mood in real
               time
     <br />
