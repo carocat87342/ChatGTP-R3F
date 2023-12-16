@@ -32,7 +32,6 @@ function App() {
     apiKey: process.env.REACT_APP_OPENAI_API_KEY,
   });
   const openai = new OpenAIApi(configuration);
-  console.log(openai)
 
   const [colorOne, setColorOne] = useState("#F2F2F2");
   const [colorTwo, setColorTwo] = useState("#FECF9E");
