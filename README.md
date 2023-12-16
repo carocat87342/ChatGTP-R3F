@@ -6,7 +6,7 @@
 <h3 align="center">Nagarjuna</h3>
 
   <p align="center">
-  https://Nagarjuna.vercel.app
+  https://nagarjuna-meet.netlify.app
     <br />
     <br />
       Nagarjuna takes you on a reflective journey with a stoic philosopher
